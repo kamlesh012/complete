@@ -11,7 +11,6 @@
   - [Env Variables](#env-variables)
   - [Install Dependencies (frontend & backend)](#install-dependencies-frontend--backend)
   - [Run](#run)
-  - 
 ## Features
 
 - Full featured shopping cart
