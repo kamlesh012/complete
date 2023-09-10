@@ -15,8 +15,10 @@ const port = process.env.PORT || 5000;
 connectDB();
 
 const app = express();
+import cors from 'cors';
 
 app.use(express.json());
+app.use(cors({origin: '*'}));
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 
