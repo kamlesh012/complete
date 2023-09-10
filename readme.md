@@ -1,4 +1,4 @@
-# Vegi Mart (v2)
+# Vegi Mart
 
 > eCommerce platform with Prediction feature built with the MERN stack.
 
